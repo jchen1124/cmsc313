@@ -1,2 +1,2 @@
 # cmsc313
-Repository for CMSC 313
+Repository for CMSC
